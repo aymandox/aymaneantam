@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AYMANE ANTAM</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Hero -->
+    <header class="hero">
+        <div class="container">
+            <img src="0a4e0e09-9826-4fab-a372-97bad47e2b34.jpg" alt="Your Logo" class="logo">
+            <h1>Your Full Name</h1>
+            <p class="tagline">Your Profession / Short Description</p>
+            <a href="#about" class="btn">Learn More About Me</a>
+        </div>
+    </header>
+
+    <!-- About -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Write a short, professional introduction here (3-5 sentences). Who you are, what you do, your passion, or your expertise.</p>
+            
+            <div class="photos">
+                <img src="photo1.jpg" alt="Your Photo 1">
+                <img src="photo2.jpg" alt="Your Photo 2">
+            </div>
+        </div>
+    </section>
+
+    <!-- Connect -->
+    <section class="connect">
+        <div class="container">
+            <h2>Let's Connect</h2>
+            
+            <div class="social-links">
+                <a href="https://www.instagram.com/aymane_antam/" target="_blank">Instagram</a>
+                <a href="https://www.snapchat.com/@aymaneantam" target="_blank">snapchat</a>
+                <a href="https://x.com/ayman_antam" target="_blank">Twitter / X</a>
+                <a href="my phone number:0690265598" target="_blank">phone</a>
+                <!-- Add more if needed -->
+            </div>
+
+            <div class="email">
+                <p>Email me at: <strong><a href="mailto:your@email.com">antamayman@email.com</a></strong></p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 aymane. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
